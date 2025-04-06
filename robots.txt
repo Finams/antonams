@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://finams.github.io/antonams/sitemap.xml
